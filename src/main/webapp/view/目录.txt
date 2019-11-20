@@ -1,0 +1,34 @@
+classinfo
+    classinfo
+    classroominfo
+    disciplineinfo 学科信息
+    syllabusinfo 课程表
+    teacher
+educational
+    attendanceinfo  添加考勤
+    classtransactioninfo 班级事务记录
+finance
+    staffsalary
+    studentpayment
+marketing
+    emailinfo
+    marketactive
+    messafeinfo
+    template
+recruistudent
+    auditioninfo 招生管理
+    recruitstudent
+    studentpoll
+    trackrecord
+student
+    communicationinfo 沟通记录
+    evaluationinfo 学员评价
+    student 学生基本信息
+    studentwritegrade 学生成绩
+studentphone 评价信息
+system 系统
+    anthorty 员工权限
+    anthotychange
+    datadictionary
+    roleinfo
+    staffinfo
