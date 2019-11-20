@@ -17,7 +17,7 @@ import com.zzuli.recruitstudent.service.StudentInfoService;
 /**
  * 学员池的信息管理控制器
  * 
- * @author mazg 2019年11月24日
+ * @author mazg 2019年10月24日
  *
  */
 @Controller

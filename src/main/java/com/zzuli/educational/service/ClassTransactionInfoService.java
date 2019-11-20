@@ -7,7 +7,7 @@ import com.zzuli.po.ClassTransactionInfo;
 /**
  * 班级事务管理的业务逻辑接口
  * @author mazg
- * 2019年12月1日
+ * 2019年11月1日
  *
  */
 public interface ClassTransactionInfoService {

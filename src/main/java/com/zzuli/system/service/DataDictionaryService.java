@@ -7,7 +7,7 @@ import com.zzuli.po.DataDictionary;
 /**
  * 数据字典业务逻辑
  * @author mazg
- * 2019年11月19日
+ * 2019年10月19日
  *
  */
 public interface DataDictionaryService {

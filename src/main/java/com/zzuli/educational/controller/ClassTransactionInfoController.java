@@ -21,7 +21,7 @@ import com.zzuli.po.ClassTransactionInfo;
 /**
  * 班级事务管理的控制器
  * @author mazg
- * 2019年12月1日
+ * 2019年11月1日
  *
  */
 @Controller

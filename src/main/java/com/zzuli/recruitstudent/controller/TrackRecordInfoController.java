@@ -24,7 +24,7 @@ import com.zzuli.recruitstudent.service.TrackRecordInfoService;
 /**
  * 跟踪记录的控制器
  * 
- * @author mazg 2019年11月25日
+ * @author mazg 2019年10月25日
  *
  */
 @Controller

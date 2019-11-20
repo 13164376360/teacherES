@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 /**
  * 数据连接对象
  * @author mazg
- * 2019年11月19日
+ * 2019年10月19日
  *
  */
 public class DBUtils {

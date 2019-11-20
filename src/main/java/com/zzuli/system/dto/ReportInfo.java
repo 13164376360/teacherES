@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 工作台报表信息
  * 
- * @author mazg 2019年12月4日
+ * @author mazg 2019年11月4日
  *
  */
 public class ReportInfo {

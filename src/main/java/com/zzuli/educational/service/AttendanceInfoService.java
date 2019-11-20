@@ -7,7 +7,7 @@ import com.zzuli.po.AttendanceInfo;
 /**
  * 学员考勤管理业务逻辑
  * @author mazg
- * 2019年12月1日
+ * 2019年11月1日
  *
  */
 public interface AttendanceInfoService {

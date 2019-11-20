@@ -7,7 +7,7 @@ import com.zzuli.po.EmailInfo;
 /**
  * 邮件管理的业务逻辑层
  * @author mazg
- * 2019年11月22日
+ * 2019年10月22日
  *
  */
 public interface EmailInfoService {

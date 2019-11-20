@@ -7,7 +7,7 @@ import com.zzuli.po.DisciplineInfo;
 /**
  * 学科信息业务逻辑接口
  * @author mazg
- * 2019年11月29日
+ * 2019年10月29日
  *
  */
 public interface DisciplineInfoService {

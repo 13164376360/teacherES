@@ -17,7 +17,7 @@ import javax.servlet.jsp.tagext.TagSupport;
  * selectClass:select元素class
  * selectedId: 默认选项编号（selected）
  * @author mazg
- * 2019年11月19日
+ * 2019年10月19日
  *
  */
 public class SelectTagSupport extends TagSupport {

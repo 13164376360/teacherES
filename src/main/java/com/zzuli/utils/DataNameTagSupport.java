@@ -13,7 +13,7 @@ import javax.servlet.jsp.tagext.TagSupport;
  * <s:dataname dataId="2"/>
  * dataId：数据字典编号
  * @author mazg
- * 2019年11月19日
+ * 2019年10月19日
  *
  */
 public class DataNameTagSupport extends TagSupport {

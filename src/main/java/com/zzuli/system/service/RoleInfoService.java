@@ -7,7 +7,7 @@ import com.zzuli.po.RoleInfo;
 /**
  * 角色管理的业务逻辑接口
  * @author mazg
- * 时间：2019年11月1日
+ * 时间：2019年10月1日
  */
 public interface RoleInfoService {
 

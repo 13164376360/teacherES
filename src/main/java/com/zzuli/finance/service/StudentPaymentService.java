@@ -7,7 +7,7 @@ import com.zzuli.po.StudentPayment;
 /**
  * 学员缴费的业务逻辑
  * @author mazg
- * 2019年12月2日
+ * 2019年11月2日
  *
  */
 public interface StudentPaymentService {

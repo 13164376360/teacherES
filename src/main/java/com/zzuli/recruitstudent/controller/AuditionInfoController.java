@@ -24,7 +24,7 @@ import com.zzuli.recruitstudent.service.StudentInfoService;
 /**
  * 试听记录
  * 
- * @author mazg 2019年11月25日
+ * @author mazg 2019年10月25日
  *
  */
 @Controller

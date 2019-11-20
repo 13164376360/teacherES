@@ -7,7 +7,7 @@ import com.zzuli.po.MarketActive;
 /**
  * 营销活动的业务逻辑层
  * @author mazg
- * 2019年11月24日
+ * 2019年10月24日
  *
  */
 public interface MarketActiveService {

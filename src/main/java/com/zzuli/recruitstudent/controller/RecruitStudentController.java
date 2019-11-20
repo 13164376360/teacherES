@@ -28,7 +28,7 @@ import com.zzuli.recruitstudent.service.TrackRecordInfoService;
 /**
  * 招生线索
  * 
- * @author mazg 2019年11月25日
+ * @author mazg 2019年10月25日
  *
  */
 @Controller

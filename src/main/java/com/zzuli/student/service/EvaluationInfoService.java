@@ -7,7 +7,7 @@ import com.zzuli.po.EvaluationInfo;
 /**
  * 学员评价的业务逻辑接口
  * @author mazg
- * 2019年11月30日
+ * 2019年10月30日
  *
  */
 public interface EvaluationInfoService {

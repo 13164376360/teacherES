@@ -32,7 +32,7 @@ import com.zzuli.student.service.StudentWriteGradeService;
 /**
  * 学员管理
  * 
- * @author mazg 2019年11月30日
+ * @author mazg 2019年10月30日
  *
  */
 @Controller

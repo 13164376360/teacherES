@@ -15,7 +15,7 @@ import com.zzuli.system.service.AnthortyService;
 /**
  * 权限管理的控制器
  * 
- * @author mazg 2019年11月3日
+ * @author mazg 2019年10月3日
  *
  */
 @Controller

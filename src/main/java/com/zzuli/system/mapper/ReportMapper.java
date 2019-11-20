@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 报名的mapper
  * @author mazg
- * 2019年12月4日
+ * 2019年11月4日
  *
  */
 public interface ReportMapper {

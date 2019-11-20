@@ -7,7 +7,7 @@ import com.zzuli.po.SyllabusInfo;
 /**
  * 课程表管理的业务逻辑接口
  * @author mazg
- * 2019年11月29日
+ * 2019年10月29日
  *
  */
 public interface SyllabusInfoService {

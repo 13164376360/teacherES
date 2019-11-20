@@ -14,7 +14,7 @@ import com.zzuli.system.service.DataDictionaryService;
 /**
  * 数据字典控制器
  * 
- * @author mazg 2019年11月19日
+ * @author mazg 2019年10月19日
  *
  */
 @Controller

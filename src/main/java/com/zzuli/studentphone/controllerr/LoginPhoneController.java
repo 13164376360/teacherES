@@ -15,7 +15,7 @@ import com.zzuli.recruitstudent.service.StudentInfoService;
 /**
  * 手机端登录的控制器
  * 
- * @author mazg 2019年12月4日
+ * @author mazg 2019年11月4日
  *
  */
 @Controller

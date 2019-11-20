@@ -7,7 +7,7 @@ import com.zzuli.po.StaffInfo;
 /**
  * 员工信息管理的业务逻辑层
  * @author mazg
- * 时间：2019年11月1日
+ * 时间：2019年10月1日
  */
 public interface StaffInfoService {
 

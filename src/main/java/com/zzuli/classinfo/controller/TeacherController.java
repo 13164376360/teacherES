@@ -17,7 +17,7 @@ import java.util.List;
 /**
  * 教师信息管理的控制器
  * 
- * @author mazg 时间：2019年11月1日
+ * @author mazg 时间：2019年10月1日
  */
 @Controller
 @RequestMapping("/teacher/")

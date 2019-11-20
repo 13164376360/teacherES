@@ -3,7 +3,7 @@ package com.zzuli.po;
 /**
  * 角色信息
  * @author mazg
- * 时间：2019年11月1日
+ * 时间：2019年10月1日
  */
 public class RoleInfo {
     private Integer roleId;

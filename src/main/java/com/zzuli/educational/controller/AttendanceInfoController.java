@@ -21,7 +21,7 @@ import com.zzuli.recruitstudent.service.StudentInfoService;
 /**
  * 学员考勤控制器
  * 
- * @author mazg 2019年12月1日
+ * @author mazg 2019年11月1日
  *
  */
 @Controller

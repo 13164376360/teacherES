@@ -14,7 +14,7 @@ import com.zzuli.po.StudentPayment;
 /**
  * 手机端 学员缴费信息查询
  * @author mazg
- * 2019年12月4日
+ * 2019年11月4日
  *
  */
 @Controller

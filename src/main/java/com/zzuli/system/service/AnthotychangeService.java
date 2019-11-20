@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 权限变更的业务逻辑接口
  * @author mazg
- * 2019年11月17日
+ * 2019年10月17日
  *
  */
 public interface AnthotychangeService {

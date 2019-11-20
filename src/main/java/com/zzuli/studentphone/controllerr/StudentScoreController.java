@@ -14,7 +14,7 @@ import com.zzuli.student.service.StudentWriteGradeService;
 /**
  * 手机 查询学员成绩
  * 
- * @author mazg 2019年12月4日
+ * @author mazg 2019年11月4日
  *
  */
 @Controller

@@ -24,7 +24,7 @@ import com.zzuli.student.service.CommunicateInfoService;
 /**
  * 沟通记录
  * @author mazg
- * 2019年11月30日
+ * 2019年10月30日
  *
  */
 @Controller

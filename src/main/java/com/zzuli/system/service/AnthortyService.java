@@ -7,7 +7,7 @@ import com.zzuli.po.AnthortyInfo;
 /**
  * 权限信息的业务逻辑接口
  * @author mazg
- * 2019年11月3日
+ * 2019年10月3日
  *
  */
 public interface AnthortyService {

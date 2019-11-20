@@ -7,7 +7,7 @@ import com.zzuli.po.AuditionInfo;
 /**
  * 试听记录的业务逻辑接口
  * @author mazg
- * 2019年11月25日
+ * 2019年10月25日
  *
  */
 public interface AuditionInfoService {

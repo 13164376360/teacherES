@@ -22,7 +22,7 @@ import com.zzuli.po.StaffInfo;
 /**
  * 营销活动的实现类
  * 
- * @author mazg 2019年11月24日
+ * @author mazg 2019年10月24日
  *
  */
 @Controller

@@ -7,7 +7,7 @@ import com.zzuli.po.CommunicateInfo;
 /**
  * 沟通记录的业务逻辑层
  * @author mazg
- * 2019年11月30日
+ * 2019年10月30日
  *
  */
 public interface CommunicateInfoService {

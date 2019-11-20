@@ -14,7 +14,7 @@ import com.zzuli.po.SyllabusInfo;
 /**
  * 课程表的控制器
  * 
- * @author mazg 2019年11月29日
+ * @author mazg 2019年10月29日
  * 
  */
 @Controller

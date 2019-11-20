@@ -26,7 +26,7 @@ import com.zzuli.po.TemplateInfo;
 /**
  * 短信管理的控制器
  * 
- * @author mazg 2019年11月22日
+ * @author mazg 2019年10月22日
  *
  */
 @Controller

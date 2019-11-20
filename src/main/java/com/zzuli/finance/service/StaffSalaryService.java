@@ -7,7 +7,7 @@ import com.zzuli.po.StaffSalary;
 /**
  * 员工薪水发放
  * @author mazg
- * 2019年12月2日
+ * 2019年11月2日
  *
  */
 public interface StaffSalaryService {

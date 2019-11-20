@@ -17,7 +17,7 @@ import com.zzuli.student.service.EvaluationInfoService;
 /**
  * 手机版 学员评价查询 和添加
  * @author mazg
- * 2019年12月4日
+ * 2019年11月4日
  *
  */
 @Controller

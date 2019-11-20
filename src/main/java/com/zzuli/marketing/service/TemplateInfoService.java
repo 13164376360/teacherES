@@ -7,7 +7,7 @@ import com.zzuli.po.TemplateInfo;
 /**
  * 模板管理的业务逻辑接口
  * @author mazg
- * 2019年11月19日
+ * 2019年10月19日
  *
  */
 public interface TemplateInfoService {

@@ -7,7 +7,7 @@ import com.zzuli.po.StudentInfo;
 /**
  * 学员信息管理的业务逻辑层
  * @author mazg
- * 2019年11月24日
+ * 2019年10月24日
  *
  */
 public interface StudentInfoService {
